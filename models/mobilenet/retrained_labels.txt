@@ -1,0 +1,79 @@
+aequorea spp 
+amphipoda
+appendicularia or larvacea 
+aurelia spp 
+beroe forskalii
+beroida
+blepharipoda occidentalis
+calanoida
+carybdea marsupialis
+carybdea rastoni
+cestida
+cestum veneris
+chelophyes appendiculata
+chrysaora achlyos
+chrysaora colorata
+cladocerans
+copepods
+ctenophores
+cubozoa carybdeida
+cyclopoida
+cyclosalpa affinis
+cyclosalpa bakeri
+cydippida
+decapoda
+diplostraca
+doliolida
+doliolum denticulatum
+emerita analoga
+eucheilota bakeri
+euphausia eximia
+euphausia gibboides
+euphausia pacifica
+euphausia recurva
+euphausiacea
+evadne spinifera
+harpacticoida
+heteromysis odontops
+hydrozoa anthoathecatae
+hydrozoa leptothecatae
+leucothea pulchra
+mertensia ovum
+muggiaea atlantica
+mysidacea
+nanomia bijuga
+nematoscelis difficilis
+nyctiphanes simplex
+obelia spp 
+oikopleura dioica
+ostracods
+paraphronima gracilis
+pelagia noctiluca
+phacellophora camtschatica
+phronima sedentaria
+phyllorhiza punctata
+pleurobrachia bachei
+pleuroncodes planipes
+poecilostomatoida
+polyorchis haplus
+polyorchis penicillatus
+primno brevidens
+pseudevadne tergestina
+ptychogena spp
+pyrosoma atlanticum
+pyrosomida
+salpa aspera
+salpa fusiformis
+salpida
+scrippsia pacifica
+scyphozoa rhizostomeae
+scyphozoa semaeostomeae
+sergestes similis
+siphonophores
+soestia zonaria
+stylocheiron longicorne
+thalia democratica
+thetys vagina
+thysanoessa gregaria
+thysanoessa spinifera
+velella velella
